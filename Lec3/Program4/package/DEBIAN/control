@@ -6,5 +6,5 @@ Depends: libc6
 Architecture: amd64
 Essential: no
 Installed-Size: 16
-Maintainer: MrFantomas <kimmv35679@gmail.com>
+Maintainer: Kiberkotletkaa <Anna.Serebryakova02@yandex.ru>
 Description: Program 4 from Lecture 3
